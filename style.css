@@ -4,10 +4,15 @@
     padding: 20px 0;
     
 }
-img { width: 150px; }
+img { 
+    width: 150px; 
+    position: fixed;
+}
   
   .details {
-    width: 600px;
+    width: 50%;
     margin: 0 auto;
     font-family: "Open Sans";
+    margin-top: 200px;
+    text-align: center;
   }
